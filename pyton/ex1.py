@@ -1,0 +1,11 @@
+lista=[7.5, 8.0, 6.0, 9.5, 5.0]
+print(f'{lista} lista')
+lista.append(8.5)
+lista.remove(5.0)
+lista.append(6.5)
+print(f'{lista}lista com o 6.5')
+print(f'{lista.sort()} para colocar em crecente')
+print(f'{lista.reverse()} ao contario')
+print(f'{max(lista)} maior ')
+print(f'{min(lista)}menor')
+print(f'{lista} lista')
