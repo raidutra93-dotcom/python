@@ -1,0 +1,437 @@
+=== RELATÓRIO FIFA 15 ===
+
+Dataset: FIFA 15 Players
+Descrição: Dados de jogadores do FIFA 2015 com atributos como idade, overall, potencial, altura e liga.
+
+=== INFORMAÇÕES GERAIS ===
+Total de registros: 16155
+Total de colunas: 110
+
+=== ESTATÍSTICAS ===
+
+OVERALL:
+Mínimo: 40.0
+Máximo: 93.0
+Média: 63.83
+Contagem válida: 16155
+
+POTENTIAL:
+Mínimo: 40.0
+Máximo: 95.0
+Média: 68.35
+Contagem válida: 16155
+
+=== FILTRO APLICADO ===
+Overall > 60.0
+Idade < 30.0
+Altura entre 170.0 e 190.0 cm
+Liga: Spain Primera Division
+Total de jogadores encontrados: 401
+
+Jogadores filtrados:
+Cristiano Ronaldo | Liga: Spain Primera Division | Overall: 92.0 | Idade: 29.0 | Altura: 185.0 cm
+L. Suárez | Liga: Spain Primera Division | Overall: 89.0 | Idade: 27.0 | Altura: 181.0 cm
+Sergio Ramos | Liga: Spain Primera Division | Overall: 87.0 | Idade: 28.0 | Altura: 183.0 cm
+G. Bale | Liga: Spain Primera Division | Overall: 87.0 | Idade: 24.0 | Altura: 183.0 cm
+L. Modrić | Liga: Spain Primera Division | Overall: 87.0 | Idade: 28.0 | Altura: 174.0 cm
+Neymar | Liga: Spain Primera Division | Overall: 86.0 | Idade: 22.0 | Altura: 175.0 cm
+J. Rodríguez | Liga: Spain Primera Division | Overall: 86.0 | Idade: 22.0 | Altura: 180.0 cm
+K. Benzema | Liga: Spain Primera Division | Overall: 85.0 | Idade: 26.0 | Altura: 184.0 cm
+T. Kroos | Liga: Spain Primera Division | Overall: 85.0 | Idade: 24.0 | Altura: 182.0 cm
+Sergio Busquets | Liga: Spain Primera Division | Overall: 85.0 | Idade: 25.0 | Altura: 189.0 cm
+A. Turan | Liga: Spain Primera Division | Overall: 84.0 | Idade: 27.0 | Altura: 177.0 cm
+S. Khedira | Liga: Spain Primera Division | Overall: 84.0 | Idade: 27.0 | Altura: 189.0 cm
+D. Godín | Liga: Spain Primera Division | Overall: 84.0 | Idade: 28.0 | Altura: 186.0 cm
+Negredo | Liga: Spain Primera Division | Overall: 83.0 | Idade: 28.0 | Altura: 186.0 cm
+Miranda | Liga: Spain Primera Division | Overall: 83.0 | Idade: 29.0 | Altura: 186.0 cm
+I. Rakitić | Liga: Spain Primera Division | Overall: 83.0 | Idade: 26.0 | Altura: 184.0 cm
+M. Mandžukić | Liga: Spain Primera Division | Overall: 83.0 | Idade: 28.0 | Altura: 187.0 cm
+Isco | Liga: Spain Primera Division | Overall: 83.0 | Idade: 22.0 | Altura: 176.0 cm
+C. Vela | Liga: Spain Primera Division | Overall: 82.0 | Idade: 25.0 | Altura: 177.0 cm
+Marcelo | Liga: Spain Primera Division | Overall: 82.0 | Idade: 26.0 | Altura: 174.0 cm
+M. ter Stegen | Liga: Spain Primera Division | Overall: 82.0 | Idade: 22.0 | Altura: 189.0 cm
+Koke | Liga: Spain Primera Division | Overall: 82.0 | Idade: 22.0 | Altura: 178.0 cm
+A. Griezmann | Liga: Spain Primera Division | Overall: 82.0 | Idade: 23.0 | Altura: 176.0 cm
+Diego Alves | Liga: Spain Primera Division | Overall: 81.0 | Idade: 29.0 | Altura: 188.0 cm
+G. dos Santos | Liga: Spain Primera Division | Overall: 81.0 | Idade: 25.0 | Altura: 175.0 cm
+J. Hernández | Liga: Spain Primera Division | Overall: 81.0 | Idade: 26.0 | Altura: 175.0 cm
+S. Feghouli | Liga: Spain Primera Division | Overall: 81.0 | Idade: 24.0 | Altura: 177.0 cm
+Jordi Alba | Liga: Spain Primera Division | Overall: 81.0 | Idade: 25.0 | Altura: 170.0 cm
+Iturraspe | Liga: Spain Primera Division | Overall: 81.0 | Idade: 25.0 | Altura: 187.0 cm
+C. Bacca | Liga: Spain Primera Division | Overall: 81.0 | Idade: 27.0 | Altura: 181.0 cm
+A. Laporte | Liga: Spain Primera Division | Overall: 81.0 | Idade: 20.0 | Altura: 189.0 cm
+G. Ochoa | Liga: Spain Primera Division | Overall: 80.0 | Idade: 28.0 | Altura: 185.0 cm
+Beñat | Liga: Spain Primera Division | Overall: 80.0 | Idade: 27.0 | Altura: 175.0 cm
+A. Cerci | Liga: Spain Primera Division | Overall: 80.0 | Idade: 26.0 | Altura: 178.0 cm
+É. Banega | Liga: Spain Primera Division | Overall: 80.0 | Idade: 26.0 | Altura: 174.0 cm
+Susaeta | Liga: Spain Primera Division | Overall: 80.0 | Idade: 26.0 | Altura: 179.0 cm
+Parejo | Liga: Spain Primera Division | Overall: 80.0 | Idade: 25.0 | Altura: 180.0 cm
+N. Otamendi | Liga: Spain Primera Division | Overall: 80.0 | Idade: 26.0 | Altura: 183.0 cm
+Rodrigo | Liga: Spain Primera Division | Overall: 80.0 | Idade: 23.0 | Altura: 180.0 cm
+Iñigo Martínez | Liga: Spain Primera Division | Overall: 80.0 | Idade: 23.0 | Altura: 181.0 cm
+Juanfran | Liga: Spain Primera Division | Overall: 79.0 | Idade: 29.0 | Altura: 180.0 cm
+T. Vermaelen | Liga: Spain Primera Division | Overall: 79.0 | Idade: 28.0 | Altura: 182.0 cm
+C. Rodríguez | Liga: Spain Primera Division | Overall: 79.0 | Idade: 28.0 | Altura: 178.0 cm
+Mario Suárez | Liga: Spain Primera Division | Overall: 79.0 | Idade: 27.0 | Altura: 188.0 cm
+Raúl García | Liga: Spain Primera Division | Overall: 79.0 | Idade: 27.0 | Altura: 184.0 cm
+Fábio Coentrão | Liga: Spain Primera Division | Overall: 79.0 | Idade: 26.0 | Altura: 179.0 cm
+Mikel Gonzalez | Liga: Spain Primera Division | Overall: 79.0 | Idade: 28.0 | Altura: 190.0 cm
+K. Gameiro | Liga: Spain Primera Division | Overall: 79.0 | Idade: 27.0 | Altura: 178.0 cm
+Sergio Asenjo | Liga: Spain Primera Division | Overall: 79.0 | Idade: 25.0 | Altura: 182.0 cm
+M. Musacchio | Liga: Spain Primera Division | Overall: 79.0 | Idade: 23.0 | Altura: 182.0 cm
+Guaita | Liga: Spain Primera Division | Overall: 79.0 | Idade: 27.0 | Altura: 190.0 cm
+Illarramendi | Liga: Spain Primera Division | Overall: 79.0 | Idade: 24.0 | Altura: 179.0 cm
+K. Navas | Liga: Spain Primera Division | Overall: 79.0 | Idade: 27.0 | Altura: 185.0 cm
+Víctor Ruíz | Liga: Spain Primera Division | Overall: 79.0 | Idade: 25.0 | Altura: 184.0 cm
+G. Krychowiak | Liga: Spain Primera Division | Overall: 79.0 | Idade: 24.0 | Altura: 186.0 cm
+Ibai Gómez | Liga: Spain Primera Division | Overall: 79.0 | Idade: 24.0 | Altura: 177.0 cm
+Paco Alcácer | Liga: Spain Primera Division | Overall: 79.0 | Idade: 20.0 | Altura: 174.0 cm
+Deulofeu | Liga: Spain Primera Division | Overall: 79.0 | Idade: 20.0 | Altura: 179.0 cm
+Carvajal | Liga: Spain Primera Division | Overall: 79.0 | Idade: 22.0 | Altura: 173.0 cm
+Mikel Rico | Liga: Spain Primera Division | Overall: 78.0 | Idade: 29.0 | Altura: 178.0 cm
+Jesús Gámez | Liga: Spain Primera Division | Overall: 78.0 | Idade: 29.0 | Altura: 182.0 cm
+Coke | Liga: Spain Primera Division | Overall: 78.0 | Idade: 27.0 | Altura: 176.0 cm
+H. Moreno | Liga: Spain Primera Division | Overall: 78.0 | Idade: 26.0 | Altura: 184.0 cm
+G. Castro | Liga: Spain Primera Division | Overall: 78.0 | Idade: 29.0 | Altura: 176.0 cm
+Mikel San José | Liga: Spain Primera Division | Overall: 78.0 | Idade: 25.0 | Altura: 186.0 cm
+Camacho | Liga: Spain Primera Division | Overall: 78.0 | Idade: 24.0 | Altura: 182.0 cm
+De Marcos | Liga: Spain Primera Division | Overall: 78.0 | Idade: 25.0 | Altura: 180.0 cm
+Arribas | Liga: Spain Primera Division | Overall: 78.0 | Idade: 25.0 | Altura: 185.0 cm
+Rafinha | Liga: Spain Primera Division | Overall: 78.0 | Idade: 21.0 | Altura: 177.0 cm
+Markel Bergara | Liga: Spain Primera Division | Overall: 77.0 | Idade: 28.0 | Altura: 181.0 cm
+Agirretxe | Liga: Spain Primera Division | Overall: 77.0 | Idade: 27.0 | Altura: 187.0 cm
+Siqueira | Liga: Spain Primera Division | Overall: 77.0 | Idade: 28.0 | Altura: 184.0 cm
+C. Ansaldi | Liga: Spain Primera Division | Overall: 77.0 | Idade: 27.0 | Altura: 181.0 cm
+A. Fernández | Liga: Spain Primera Division | Overall: 77.0 | Idade: 28.0 | Altura: 177.0 cm
+B. Trémoulinas | Liga: Spain Primera Division | Overall: 77.0 | Idade: 28.0 | Altura: 172.0 cm
+Granero | Liga: Spain Primera Division | Overall: 77.0 | Idade: 26.0 | Altura: 180.0 cm
+E. Insua | Liga: Spain Primera Division | Overall: 77.0 | Idade: 25.0 | Altura: 179.0 cm
+N. Amrabat | Liga: Spain Primera Division | Overall: 77.0 | Idade: 27.0 | Altura: 178.0 cm
+Balenziaga | Liga: Spain Primera Division | Overall: 77.0 | Idade: 26.0 | Altura: 176.0 cm
+Sergio Canales | Liga: Spain Primera Division | Overall: 77.0 | Idade: 23.0 | Altura: 179.0 cm
+S. Mustafi | Liga: Spain Primera Division | Overall: 77.0 | Idade: 22.0 | Altura: 184.0 cm
+José Cañas | Liga: Spain Primera Division | Overall: 77.0 | Idade: 27.0 | Altura: 178.0 cm
+Montoya | Liga: Spain Primera Division | Overall: 77.0 | Idade: 23.0 | Altura: 174.0 cm
+Nolito | Liga: Spain Primera Division | Overall: 77.0 | Idade: 27.0 | Altura: 175.0 cm
+Vitolo | Liga: Spain Primera Division | Overall: 77.0 | Idade: 24.0 | Altura: 184.0 cm
+J. Oblak | Liga: Spain Primera Division | Overall: 77.0 | Idade: 21.0 | Altura: 188.0 cm
+L. Bangoura | Liga: Spain Primera Division | Overall: 77.0 | Idade: 22.0 | Altura: 175.0 cm
+Tito | Liga: Spain Primera Division | Overall: 76.0 | Idade: 28.0 | Altura: 174.0 cm
+Adriano | Liga: Spain Primera Division | Overall: 76.0 | Idade: 29.0 | Altura: 172.0 cm
+Valera | Liga: Spain Primera Division | Overall: 76.0 | Idade: 29.0 | Altura: 184.0 cm
+J. Dos Santos | Liga: Spain Primera Division | Overall: 76.0 | Idade: 24.0 | Altura: 172.0 cm
+Carlos Martínez | Liga: Spain Primera Division | Overall: 76.0 | Idade: 28.0 | Altura: 189.0 cm
+Bueno | Liga: Spain Primera Division | Overall: 76.0 | Idade: 26.0 | Altura: 178.0 cm
+P. Diop | Liga: Spain Primera Division | Overall: 76.0 | Idade: 28.0 | Altura: 180.0 cm
+Antunes | Liga: Spain Primera Division | Overall: 76.0 | Idade: 27.0 | Altura: 175.0 cm
+Daniel Carriço | Liga: Spain Primera Division | Overall: 76.0 | Idade: 25.0 | Altura: 180.0 cm
+Iago Aspas | Liga: Spain Primera Division | Overall: 76.0 | Idade: 26.0 | Altura: 176.0 cm
+A. Nyom | Liga: Spain Primera Division | Overall: 76.0 | Idade: 26.0 | Altura: 189.0 cm
+Marc Bartra | Liga: Spain Primera Division | Overall: 76.0 | Idade: 23.0 | Altura: 183.0 cm
+Jesé Rodríguez | Liga: Spain Primera Division | Overall: 76.0 | Idade: 21.0 | Altura: 178.0 cm
+Rubén Pardo | Liga: Spain Primera Division | Overall: 76.0 | Idade: 21.0 | Altura: 182.0 cm
+P. Pérez | Liga: Spain Primera Division | Overall: 76.0 | Idade: 28.0 | Altura: 179.0 cm
+G. Rulli | Liga: Spain Primera Division | Overall: 76.0 | Idade: 22.0 | Altura: 189.0 cm
+Lafita | Liga: Spain Primera Division | Overall: 75.0 | Idade: 29.0 | Altura: 187.0 cm
+S. M'Bia | Liga: Spain Primera Division | Overall: 75.0 | Idade: 28.0 | Altura: 190.0 cm
+De la Bella | Liga: Spain Primera Division | Overall: 75.0 | Idade: 28.0 | Altura: 182.0 cm
+Zurutuza | Liga: Spain Primera Division | Overall: 75.0 | Idade: 27.0 | Altura: 186.0 cm
+Alex López | Liga: Spain Primera Division | Overall: 75.0 | Idade: 26.0 | Altura: 174.0 cm
+F. Caicedo | Liga: Spain Primera Division | Overall: 75.0 | Idade: 25.0 | Altura: 180.0 cm
+H. Medunjanin | Liga: Spain Primera Division | Overall: 75.0 | Idade: 29.0 | Altura: 188.0 cm
+Sergio Sánchez | Liga: Spain Primera Division | Overall: 75.0 | Idade: 28.0 | Altura: 185.0 cm
+Yoel | Liga: Spain Primera Division | Overall: 75.0 | Idade: 25.0 | Altura: 186.0 cm
+F. Rossi | Liga: Spain Primera Division | Overall: 75.0 | Idade: 23.0 | Altura: 177.0 cm
+Víctor Pérez | Liga: Spain Primera Division | Overall: 75.0 | Idade: 26.0 | Altura: 176.0 cm
+Juan Dominguez | Liga: Spain Primera Division | Overall: 75.0 | Idade: 24.0 | Altura: 181.0 cm
+Y. El Arabi | Liga: Spain Primera Division | Overall: 75.0 | Idade: 27.0 | Altura: 183.0 cm
+Hugo Mallo | Liga: Spain Primera Division | Overall: 75.0 | Idade: 23.0 | Altura: 173.0 cm
+A. Finnbogason | Liga: Spain Primera Division | Overall: 75.0 | Idade: 25.0 | Altura: 184.0 cm
+Tomás Pina | Liga: Spain Primera Division | Overall: 75.0 | Idade: 26.0 | Altura: 185.0 cm
+Sergi Roberto | Liga: Spain Primera Division | Overall: 75.0 | Idade: 22.0 | Altura: 177.0 cm
+Montañés | Liga: Spain Primera Division | Overall: 75.0 | Idade: 27.0 | Altura: 172.0 cm
+Aleix | Liga: Spain Primera Division | Overall: 75.0 | Idade: 24.0 | Altura: 176.0 cm
+N. Ghilas | Liga: Spain Primera Division | Overall: 75.0 | Idade: 24.0 | Altura: 183.0 cm
+Víctor Rodríguez | Liga: Spain Primera Division | Overall: 75.0 | Idade: 24.0 | Altura: 170.0 cm
+André Gomes | Liga: Spain Primera Division | Overall: 75.0 | Idade: 20.0 | Altura: 188.0 cm
+Alexis | Liga: Spain Primera Division | Overall: 74.0 | Idade: 28.0 | Altura: 183.0 cm
+Verza | Liga: Spain Primera Division | Overall: 74.0 | Idade: 27.0 | Altura: 181.0 cm
+M. Barbosa | Liga: Spain Primera Division | Overall: 74.0 | Idade: 29.0 | Altura: 190.0 cm
+Víctor | Liga: Spain Primera Division | Overall: 74.0 | Idade: 29.0 | Altura: 180.0 cm
+Elustondo | Liga: Spain Primera Division | Overall: 74.0 | Idade: 27.0 | Altura: 184.0 cm
+F. Tissone | Liga: Spain Primera Division | Overall: 74.0 | Idade: 27.0 | Altura: 180.0 cm
+J. Larrivey | Liga: Spain Primera Division | Overall: 74.0 | Idade: 29.0 | Altura: 185.0 cm
+Luisinho | Liga: Spain Primera Division | Overall: 74.0 | Idade: 29.0 | Altura: 175.0 cm
+N. El Zhar | Liga: Spain Primera Division | Overall: 74.0 | Idade: 27.0 | Altura: 175.0 cm
+Kike Sola | Liga: Spain Primera Division | Overall: 74.0 | Idade: 28.0 | Altura: 184.0 cm
+Victor Sánchez | Liga: Spain Primera Division | Overall: 74.0 | Idade: 26.0 | Altura: 174.0 cm
+P. Diawara | Liga: Spain Primera Division | Overall: 74.0 | Idade: 26.0 | Altura: 180.0 cm
+F. Orellana | Liga: Spain Primera Division | Overall: 74.0 | Idade: 28.0 | Altura: 171.0 cm
+Borja Viguera | Liga: Spain Primera Division | Overall: 74.0 | Idade: 27.0 | Altura: 184.0 cm
+Baena | Liga: Spain Primera Division | Overall: 74.0 | Idade: 25.0 | Altura: 181.0 cm
+Lucas Pérez | Liga: Spain Primera Division | Overall: 74.0 | Idade: 25.0 | Altura: 180.0 cm
+Aurtenetxe | Liga: Spain Primera Division | Overall: 74.0 | Idade: 22.0 | Altura: 182.0 cm
+P. Hernández | Liga: Spain Primera Division | Overall: 74.0 | Idade: 27.0 | Altura: 185.0 cm
+Rafael Martins | Liga: Spain Primera Division | Overall: 74.0 | Idade: 25.0 | Altura: 177.0 cm
+J. Murillo | Liga: Spain Primera Division | Overall: 74.0 | Idade: 22.0 | Altura: 182.0 cm
+Irureta | Liga: Spain Primera Division | Overall: 74.0 | Idade: 28.0 | Altura: 180.0 cm
+L. Fariña | Liga: Spain Primera Division | Overall: 74.0 | Idade: 23.0 | Altura: 177.0 cm
+R. Jiménez | Liga: Spain Primera Division | Overall: 74.0 | Idade: 23.0 | Altura: 186.0 cm
+Leo Baptistao | Liga: Spain Primera Division | Overall: 74.0 | Idade: 21.0 | Altura: 181.0 cm
+Manu Trigueros | Liga: Spain Primera Division | Overall: 74.0 | Idade: 22.0 | Altura: 178.0 cm
+Moi Gómez | Liga: Spain Primera Division | Overall: 74.0 | Idade: 20.0 | Altura: 174.0 cm
+Insua | Liga: Spain Primera Division | Overall: 74.0 | Idade: 20.0 | Altura: 187.0 cm
+Saúl | Liga: Spain Primera Division | Overall: 74.0 | Idade: 19.0 | Altura: 181.0 cm
+Carles Gil | Liga: Spain Primera Division | Overall: 74.0 | Idade: 21.0 | Altura: 170.0 cm
+Rubén García | Liga: Spain Primera Division | Overall: 74.0 | Idade: 20.0 | Altura: 171.0 cm
+Gayà | Liga: Spain Primera Division | Overall: 74.0 | Idade: 19.0 | Altura: 171.0 cm
+Rúben Vezo | Liga: Spain Primera Division | Overall: 74.0 | Idade: 20.0 | Altura: 184.0 cm
+F. Cartabia | Liga: Spain Primera Division | Overall: 74.0 | Idade: 21.0 | Altura: 170.0 cm
+G. Cabral | Liga: Spain Primera Division | Overall: 73.0 | Idade: 28.0 | Altura: 182.0 cm
+Miguel Torres | Liga: Spain Primera Division | Overall: 73.0 | Idade: 28.0 | Altura: 184.0 cm
+R. Rosales | Liga: Spain Primera Division | Overall: 73.0 | Idade: 25.0 | Altura: 174.0 cm
+Casado | Liga: Spain Primera Division | Overall: 73.0 | Idade: 27.0 | Altura: 173.0 cm
+Licá | Liga: Spain Primera Division | Overall: 73.0 | Idade: 25.0 | Altura: 181.0 cm
+G. Kakuta | Liga: Spain Primera Division | Overall: 73.0 | Idade: 23.0 | Altura: 173.0 cm
+Simao Mate | Liga: Spain Primera Division | Overall: 73.0 | Idade: 25.0 | Altura: 178.0 cm
+Xumetra | Liga: Spain Primera Division | Overall: 73.0 | Idade: 28.0 | Altura: 176.0 cm
+Michel | Liga: Spain Primera Division | Overall: 73.0 | Idade: 24.0 | Altura: 182.0 cm
+Fidel | Liga: Spain Primera Division | Overall: 73.0 | Idade: 24.0 | Altura: 177.0 cm
+Etxeita | Liga: Spain Primera Division | Overall: 73.0 | Idade: 26.0 | Altura: 185.0 cm
+Javi Márquez | Liga: Spain Primera Division | Overall: 73.0 | Idade: 28.0 | Altura: 179.0 cm
+L. Orbán | Liga: Spain Primera Division | Overall: 73.0 | Idade: 25.0 | Altura: 184.0 cm
+Jose Carlos | Liga: Spain Primera Division | Overall: 73.0 | Idade: 26.0 | Altura: 177.0 cm
+Fontàs | Liga: Spain Primera Division | Overall: 73.0 | Idade: 24.0 | Altura: 186.0 cm
+Wellington Silva | Liga: Spain Primera Division | Overall: 73.0 | Idade: 21.0 | Altura: 170.0 cm
+Abraham | Liga: Spain Primera Division | Overall: 73.0 | Idade: 28.0 | Altura: 175.0 cm
+Isaac Cuenca | Liga: Spain Primera Division | Overall: 73.0 | Idade: 23.0 | Altura: 172.0 cm
+Matos | Liga: Spain Primera Division | Overall: 73.0 | Idade: 21.0 | Altura: 179.0 cm
+Juan Carlos | Liga: Spain Primera Division | Overall: 73.0 | Idade: 24.0 | Altura: 179.0 cm
+Raúl Rodríguez | Liga: Spain Primera Division | Overall: 73.0 | Idade: 26.0 | Altura: 183.0 cm
+Ekiza | Liga: Spain Primera Division | Overall: 73.0 | Idade: 26.0 | Altura: 180.0 cm
+T. Bifouma | Liga: Spain Primera Division | Overall: 73.0 | Idade: 22.0 | Altura: 180.0 cm
+D. Suárez | Liga: Spain Primera Division | Overall: 73.0 | Idade: 26.0 | Altura: 172.0 cm
+B. Zuculini | Liga: Spain Primera Division | Overall: 73.0 | Idade: 21.0 | Altura: 178.0 cm
+T. Hemed | Liga: Spain Primera Division | Overall: 73.0 | Idade: 27.0 | Altura: 186.0 cm
+F. Fajr | Liga: Spain Primera Division | Overall: 73.0 | Idade: 25.0 | Altura: 178.0 cm
+D. Cheryshev | Liga: Spain Primera Division | Overall: 73.0 | Idade: 23.0 | Altura: 178.0 cm
+L. Vietto | Liga: Spain Primera Division | Overall: 73.0 | Idade: 20.0 | Altura: 173.0 cm
+Sammir | Liga: Spain Primera Division | Overall: 73.0 | Idade: 27.0 | Altura: 178.0 cm
+José Rodríguez | Liga: Spain Primera Division | Overall: 73.0 | Idade: 19.0 | Altura: 180.0 cm
+Nacho | Liga: Spain Primera Division | Overall: 73.0 | Idade: 25.0 | Altura: 174.0 cm
+E. Roco | Liga: Spain Primera Division | Overall: 73.0 | Idade: 21.0 | Altura: 189.0 cm
+Gavilán | Liga: Spain Primera Division | Overall: 72.0 | Idade: 29.0 | Altura: 178.0 cm
+Sergio | Liga: Spain Primera Division | Overall: 72.0 | Idade: 27.0 | Altura: 179.0 cm
+Barragán | Liga: Spain Primera Division | Overall: 72.0 | Idade: 27.0 | Altura: 182.0 cm
+Toquero | Liga: Spain Primera Division | Overall: 72.0 | Idade: 29.0 | Altura: 182.0 cm
+Fran Rico | Liga: Spain Primera Division | Overall: 72.0 | Idade: 26.0 | Altura: 178.0 cm
+B. Jokič | Liga: Spain Primera Division | Overall: 72.0 | Idade: 28.0 | Altura: 176.0 cm
+Adrián González | Liga: Spain Primera Division | Overall: 72.0 | Idade: 26.0 | Altura: 183.0 cm
+Sidnei | Liga: Spain Primera Division | Overall: 72.0 | Idade: 25.0 | Altura: 186.0 cm
+Jonathas | Liga: Spain Primera Division | Overall: 72.0 | Idade: 25.0 | Altura: 190.0 cm
+Dídac | Liga: Spain Primera Division | Overall: 72.0 | Idade: 25.0 | Altura: 184.0 cm
+Jesús | Liga: Spain Primera Division | Overall: 72.0 | Idade: 26.0 | Altura: 190.0 cm
+Mario Gaspar | Liga: Spain Primera Division | Overall: 72.0 | Idade: 23.0 | Altura: 182.0 cm
+Jaume Costa | Liga: Spain Primera Division | Overall: 72.0 | Idade: 26.0 | Altura: 172.0 cm
+Ximo Navarro | Liga: Spain Primera Division | Overall: 72.0 | Idade: 24.0 | Altura: 178.0 cm
+S. Dubarbier | Liga: Spain Primera Division | Overall: 72.0 | Idade: 28.0 | Altura: 178.0 cm
+Luis Alberto | Liga: Spain Primera Division | Overall: 72.0 | Idade: 21.0 | Altura: 182.0 cm
+Salomão | Liga: Spain Primera Division | Overall: 72.0 | Idade: 25.0 | Altura: 175.0 cm
+Nacho Fernández | Liga: Spain Primera Division | Overall: 72.0 | Idade: 24.0 | Altura: 179.0 cm
+Gabriel | Liga: Spain Primera Division | Overall: 72.0 | Idade: 23.0 | Altura: 185.0 cm
+Denis Suarez | Liga: Spain Primera Division | Overall: 72.0 | Idade: 20.0 | Altura: 171.0 cm
+Flávio Ferreira | Liga: Spain Primera Division | Overall: 72.0 | Idade: 22.0 | Altura: 180.0 cm
+Jonny | Liga: Spain Primera Division | Overall: 72.0 | Idade: 20.0 | Altura: 175.0 cm
+Ricardo Horta | Liga: Spain Primera Division | Overall: 72.0 | Idade: 19.0 | Altura: 173.0 cm
+Dani García | Liga: Spain Primera Division | Overall: 72.0 | Idade: 24.0 | Altura: 180.0 cm
+Abraham | Liga: Spain Primera Division | Overall: 71.0 | Idade: 28.0 | Altura: 178.0 cm
+Juan Carlos | Liga: Spain Primera Division | Overall: 71.0 | Idade: 26.0 | Altura: 180.0 cm
+Roberto Lago | Liga: Spain Primera Division | Overall: 71.0 | Idade: 28.0 | Altura: 178.0 cm
+J. Babin | Liga: Spain Primera Division | Overall: 71.0 | Idade: 27.0 | Altura: 179.0 cm
+Ángel | Liga: Spain Primera Division | Overall: 71.0 | Idade: 27.0 | Altura: 172.0 cm
+Canella | Liga: Spain Primera Division | Overall: 71.0 | Idade: 26.0 | Altura: 180.0 cm
+Mosquera | Liga: Spain Primera Division | Overall: 71.0 | Idade: 26.0 | Altura: 184.0 cm
+Aquino | Liga: Spain Primera Division | Overall: 71.0 | Idade: 23.0 | Altura: 178.0 cm
+C. Stuani | Liga: Spain Primera Division | Overall: 71.0 | Idade: 27.0 | Altura: 184.0 cm
+Juanfran | Liga: Spain Primera Division | Overall: 71.0 | Idade: 25.0 | Altura: 179.0 cm
+C. Álvarez | Liga: Spain Primera Division | Overall: 71.0 | Idade: 28.0 | Altura: 186.0 cm
+Saúl Berjón | Liga: Spain Primera Division | Overall: 71.0 | Idade: 28.0 | Altura: 178.0 cm
+Lombán | Liga: Spain Primera Division | Overall: 71.0 | Idade: 27.0 | Altura: 188.0 cm
+T. Kolodziejczak | Liga: Spain Primera Division | Overall: 71.0 | Idade: 22.0 | Altura: 185.0 cm
+Cicinho | Liga: Spain Primera Division | Overall: 71.0 | Idade: 27.0 | Altura: 174.0 cm
+N. Karampelas | Liga: Spain Primera Division | Overall: 71.0 | Idade: 29.0 | Altura: 179.0 cm
+H. Pérez | Liga: Spain Primera Division | Overall: 71.0 | Idade: 25.0 | Altura: 180.0 cm
+Javi López | Liga: Spain Primera Division | Overall: 71.0 | Idade: 28.0 | Altura: 180.0 cm
+Raúl Navas | Liga: Spain Primera Division | Overall: 71.0 | Idade: 26.0 | Altura: 185.0 cm
+Álex Fernández | Liga: Spain Primera Division | Overall: 71.0 | Idade: 21.0 | Altura: 180.0 cm
+Diego Mariño | Liga: Spain Primera Division | Overall: 71.0 | Idade: 24.0 | Altura: 185.0 cm
+Álvaro | Liga: Spain Primera Division | Overall: 71.0 | Idade: 23.0 | Altura: 182.0 cm
+Recio | Liga: Spain Primera Division | Overall: 71.0 | Idade: 23.0 | Altura: 183.0 cm
+Sergi Darder | Liga: Spain Primera Division | Overall: 71.0 | Idade: 20.0 | Altura: 180.0 cm
+Pozuelo | Liga: Spain Primera Division | Overall: 71.0 | Idade: 22.0 | Altura: 170.0 cm
+Filipe Augusto | Liga: Spain Primera Division | Overall: 71.0 | Idade: 20.0 | Altura: 182.0 cm
+Ivan Cavaleiro | Liga: Spain Primera Division | Overall: 71.0 | Idade: 20.0 | Altura: 175.0 cm
+R. De Paul | Liga: Spain Primera Division | Overall: 71.0 | Idade: 20.0 | Altura: 178.0 cm
+J. Giménez | Liga: Spain Primera Division | Overall: 71.0 | Idade: 19.0 | Altura: 185.0 cm
+A. Pantic | Liga: Spain Primera Division | Overall: 71.0 | Idade: 22.0 | Altura: 184.0 cm
+Zaldúa | Liga: Spain Primera Division | Overall: 71.0 | Idade: 22.0 | Altura: 176.0 cm
+Dani Estrada | Liga: Spain Primera Division | Overall: 70.0 | Idade: 27.0 | Altura: 179.0 cm
+Fabricio | Liga: Spain Primera Division | Overall: 70.0 | Idade: 26.0 | Altura: 182.0 cm
+Aarón | Liga: Spain Primera Division | Overall: 70.0 | Idade: 25.0 | Altura: 170.0 cm
+Rochina | Liga: Spain Primera Division | Overall: 70.0 | Idade: 23.0 | Altura: 182.0 cm
+Míchel | Liga: Spain Primera Division | Overall: 70.0 | Idade: 25.0 | Altura: 181.0 cm
+Escudero | Liga: Spain Primera Division | Overall: 70.0 | Idade: 24.0 | Altura: 176.0 cm
+Herrerín | Liga: Spain Primera Division | Overall: 70.0 | Idade: 26.0 | Altura: 187.0 cm
+Javi Lara | Liga: Spain Primera Division | Overall: 70.0 | Idade: 28.0 | Altura: 179.0 cm
+Trujillo | Liga: Spain Primera Division | Overall: 70.0 | Idade: 26.0 | Altura: 179.0 cm
+Pablo Sarabia | Liga: Spain Primera Division | Overall: 70.0 | Idade: 22.0 | Altura: 174.0 cm
+Deivid | Liga: Spain Primera Division | Overall: 70.0 | Idade: 25.0 | Altura: 187.0 cm
+Jordi Masip | Liga: Spain Primera Division | Overall: 70.0 | Idade: 25.0 | Altura: 180.0 cm
+Arbilla | Liga: Spain Primera Division | Overall: 70.0 | Idade: 27.0 | Altura: 177.0 cm
+Errasti | Liga: Spain Primera Division | Overall: 70.0 | Idade: 26.0 | Altura: 180.0 cm
+Naldo | Liga: Spain Primera Division | Overall: 70.0 | Idade: 25.0 | Altura: 188.0 cm
+J. Zongo | Liga: Spain Primera Division | Overall: 70.0 | Idade: 21.0 | Altura: 183.0 cm
+Álvaro | Liga: Spain Primera Division | Overall: 70.0 | Idade: 24.0 | Altura: 180.0 cm
+Cristian Herrera | Liga: Spain Primera Division | Overall: 70.0 | Idade: 23.0 | Altura: 189.0 cm
+João Cancelo | Liga: Spain Primera Division | Overall: 70.0 | Idade: 20.0 | Altura: 180.0 cm
+M. Dos Santos | Liga: Spain Primera Division | Overall: 70.0 | Idade: 24.0 | Altura: 182.0 cm
+R. Azeez | Liga: Spain Primera Division | Overall: 70.0 | Idade: 21.0 | Altura: 170.0 cm
+Capa | Liga: Spain Primera Division | Overall: 70.0 | Idade: 22.0 | Altura: 173.0 cm
+David Costas | Liga: Spain Primera Division | Overall: 70.0 | Idade: 19.0 | Altura: 181.0 cm
+M. Pašalić | Liga: Spain Primera Division | Overall: 70.0 | Idade: 19.0 | Altura: 186.0 cm
+C. Wilk | Liga: Spain Primera Division | Overall: 69.0 | Idade: 28.0 | Altura: 180.0 cm
+D. Larsson | Liga: Spain Primera Division | Overall: 69.0 | Idade: 27.0 | Altura: 175.0 cm
+Alex Bergantiños | Liga: Spain Primera Division | Overall: 69.0 | Idade: 29.0 | Altura: 177.0 cm
+Bóveda | Liga: Spain Primera Division | Overall: 69.0 | Idade: 25.0 | Altura: 180.0 cm
+I. El Adoua | Liga: Spain Primera Division | Overall: 69.0 | Idade: 27.0 | Altura: 189.0 cm
+D. Nounkeu | Liga: Spain Primera Division | Overall: 69.0 | Idade: 28.0 | Altura: 184.0 cm
+Douglas | Liga: Spain Primera Division | Overall: 69.0 | Idade: 23.0 | Altura: 171.0 cm
+Borja García | Liga: Spain Primera Division | Overall: 69.0 | Idade: 23.0 | Altura: 176.0 cm
+Sergi Gómez | Liga: Spain Primera Division | Overall: 69.0 | Idade: 22.0 | Altura: 185.0 cm
+Erik Morán | Liga: Spain Primera Division | Overall: 69.0 | Idade: 23.0 | Altura: 187.0 cm
+Javi Espinosa | Liga: Spain Primera Division | Overall: 69.0 | Idade: 21.0 | Altura: 174.0 cm
+Víctor Álvarez | Liga: Spain Primera Division | Overall: 69.0 | Idade: 21.0 | Altura: 178.0 cm
+Dani Nieto | Liga: Spain Primera Division | Overall: 69.0 | Idade: 23.0 | Altura: 173.0 cm
+Luís Martins | Liga: Spain Primera Division | Overall: 69.0 | Idade: 22.0 | Altura: 176.0 cm
+J. Córdoba | Liga: Spain Primera Division | Overall: 69.0 | Idade: 21.0 | Altura: 186.0 cm
+Morales | Liga: Spain Primera Division | Overall: 69.0 | Idade: 26.0 | Altura: 180.0 cm
+S. Cristóforo | Liga: Spain Primera Division | Overall: 69.0 | Idade: 20.0 | Altura: 173.0 cm
+Edgar | Liga: Spain Primera Division | Overall: 69.0 | Idade: 23.0 | Altura: 188.0 cm
+Xisco | Liga: Spain Primera Division | Overall: 68.0 | Idade: 28.0 | Altura: 188.0 cm
+Felipe Mattioni | Liga: Spain Primera Division | Overall: 68.0 | Idade: 25.0 | Altura: 180.0 cm
+Lillo | Liga: Spain Primera Division | Overall: 68.0 | Idade: 25.0 | Altura: 176.0 cm
+Héctor Rodas | Liga: Spain Primera Division | Overall: 68.0 | Idade: 26.0 | Altura: 190.0 cm
+Fuentes | Liga: Spain Primera Division | Overall: 68.0 | Idade: 24.0 | Altura: 178.0 cm
+Juanmi | Liga: Spain Primera Division | Overall: 68.0 | Idade: 21.0 | Altura: 170.0 cm
+Arroyo | Liga: Spain Primera Division | Overall: 68.0 | Idade: 25.0 | Altura: 180.0 cm
+Carles Planas | Liga: Spain Primera Division | Overall: 68.0 | Idade: 23.0 | Altura: 173.0 cm
+D. Foulquier | Liga: Spain Primera Division | Overall: 68.0 | Idade: 21.0 | Altura: 183.0 cm
+Toño | Liga: Spain Primera Division | Overall: 68.0 | Idade: 24.0 | Altura: 179.0 cm
+Kepa Arrizabalaga | Liga: Spain Primera Division | Overall: 68.0 | Idade: 19.0 | Altura: 186.0 cm
+Rubén Blanco | Liga: Spain Primera Division | Overall: 68.0 | Idade: 18.0 | Altura: 188.0 cm
+L. Madinda | Liga: Spain Primera Division | Overall: 68.0 | Idade: 22.0 | Altura: 182.0 cm
+Israel | Liga: Spain Primera Division | Overall: 68.0 | Idade: 21.0 | Altura: 188.0 cm
+Santi Mina | Liga: Spain Primera Division | Overall: 68.0 | Idade: 18.0 | Altura: 180.0 cm
+N. Radoja | Liga: Spain Primera Division | Overall: 68.0 | Idade: 21.0 | Altura: 186.0 cm
+E. Velázquez | Liga: Spain Primera Division | Overall: 68.0 | Idade: 20.0 | Altura: 185.0 cm
+Crespo | Liga: Spain Primera Division | Overall: 67.0 | Idade: 27.0 | Altura: 183.0 cm
+Oier | Liga: Spain Primera Division | Overall: 67.0 | Idade: 24.0 | Altura: 189.0 cm
+Yuri | Liga: Spain Primera Division | Overall: 67.0 | Idade: 24.0 | Altura: 177.0 cm
+A. Sissoko | Liga: Spain Primera Division | Overall: 67.0 | Idade: 24.0 | Altura: 183.0 cm
+Morcillo | Liga: Spain Primera Division | Overall: 67.0 | Idade: 28.0 | Altura: 185.0 cm
+Juan Carlos | Liga: Spain Primera Division | Overall: 67.0 | Idade: 26.0 | Altura: 187.0 cm
+José Ángel | Liga: Spain Primera Division | Overall: 67.0 | Idade: 25.0 | Altura: 186.0 cm
+Samuel | Liga: Spain Primera Division | Overall: 67.0 | Idade: 24.0 | Altura: 179.0 cm
+Guillermo | Liga: Spain Primera Division | Overall: 67.0 | Idade: 21.0 | Altura: 181.0 cm
+Gerard Moreno | Liga: Spain Primera Division | Overall: 67.0 | Idade: 22.0 | Altura: 177.0 cm
+Thomas | Liga: Spain Primera Division | Overall: 67.0 | Idade: 21.0 | Altura: 177.0 cm
+Rodrigues | Liga: Spain Primera Division | Overall: 67.0 | Idade: 23.0 | Altura: 172.0 cm
+F. Hinestroza | Liga: Spain Primera Division | Overall: 67.0 | Idade: 24.0 | Altura: 175.0 cm
+M. Fatau | Liga: Spain Primera Division | Overall: 67.0 | Idade: 21.0 | Altura: 178.0 cm
+Sandro | Liga: Spain Primera Division | Overall: 67.0 | Idade: 18.0 | Altura: 175.0 cm
+Dani Ramírez | Liga: Spain Primera Division | Overall: 67.0 | Idade: 22.0 | Altura: 175.0 cm
+Carlos Caballero | Liga: Spain Primera Division | Overall: 66.0 | Idade: 29.0 | Altura: 174.0 cm
+F. Piovaccari | Liga: Spain Primera Division | Overall: 66.0 | Idade: 29.0 | Altura: 181.0 cm
+Luso | Liga: Spain Primera Division | Overall: 66.0 | Idade: 29.0 | Altura: 183.0 cm
+Álvaro | Liga: Spain Primera Division | Overall: 66.0 | Idade: 23.0 | Altura: 182.0 cm
+Fran Vélez | Liga: Spain Primera Division | Overall: 66.0 | Idade: 23.0 | Altura: 180.0 cm
+Juan Carlos | Liga: Spain Primera Division | Overall: 66.0 | Idade: 23.0 | Altura: 183.0 cm
+Iván | Liga: Spain Primera Division | Overall: 66.0 | Idade: 20.0 | Altura: 175.0 cm
+Adriá Carmona | Liga: Spain Primera Division | Overall: 66.0 | Idade: 22.0 | Altura: 170.0 cm
+Quini | Liga: Spain Primera Division | Overall: 66.0 | Idade: 24.0 | Altura: 174.0 cm
+Llorente | Liga: Spain Primera Division | Overall: 66.0 | Idade: 20.0 | Altura: 185.0 cm
+R. Chen | Liga: Spain Primera Division | Overall: 66.0 | Idade: 20.0 | Altura: 182.0 cm
+Camarasa | Liga: Spain Primera Division | Overall: 66.0 | Idade: 20.0 | Altura: 183.0 cm
+Munir | Liga: Spain Primera Division | Overall: 66.0 | Idade: 18.0 | Altura: 172.0 cm
+N. Leiva | Liga: Spain Primera Division | Overall: 66.0 | Idade: 17.0 | Altura: 175.0 cm
+Sergio Marcos | Liga: Spain Primera Division | Overall: 66.0 | Idade: 22.0 | Altura: 177.0 cm
+Borja Fernández | Liga: Spain Primera Division | Overall: 66.0 | Idade: 18.0 | Altura: 177.0 cm
+Seoane | Liga: Spain Primera Division | Overall: 65.0 | Idade: 26.0 | Altura: 180.0 cm
+P. Ekeng Ekeng | Liga: Spain Primera Division | Overall: 65.0 | Idade: 24.0 | Altura: 180.0 cm
+T. Dangda | Liga: Spain Primera Division | Overall: 65.0 | Idade: 26.0 | Altura: 181.0 cm
+Gaztañaga | Liga: Spain Primera Division | Overall: 65.0 | Idade: 23.0 | Altura: 182.0 cm
+Lucas Vázquez | Liga: Spain Primera Division | Overall: 65.0 | Idade: 22.0 | Altura: 173.0 cm
+Derik | Liga: Spain Primera Division | Overall: 65.0 | Idade: 21.0 | Altura: 183.0 cm
+Burgui | Liga: Spain Primera Division | Overall: 65.0 | Idade: 20.0 | Altura: 184.0 cm
+Jaume | Liga: Spain Primera Division | Overall: 65.0 | Idade: 23.0 | Altura: 185.0 cm
+Ortuño | Liga: Spain Primera Division | Overall: 64.0 | Idade: 23.0 | Altura: 182.0 cm
+S. Okoro | Liga: Spain Primera Division | Overall: 64.0 | Idade: 21.0 | Altura: 171.0 cm
+Aitor Castro | Liga: Spain Primera Division | Overall: 64.0 | Idade: 21.0 | Altura: 171.0 cm
+Iván Sánchez | Liga: Spain Primera Division | Overall: 64.0 | Idade: 21.0 | Altura: 174.0 cm
+A. Shvets | Liga: Spain Primera Division | Overall: 64.0 | Idade: 21.0 | Altura: 187.0 cm
+De Tomás | Liga: Spain Primera Division | Overall: 64.0 | Idade: 19.0 | Altura: 178.0 cm
+Salva Ruíz | Liga: Spain Primera Division | Overall: 64.0 | Idade: 19.0 | Altura: 179.0 cm
+Pinillos | Liga: Spain Primera Division | Overall: 64.0 | Idade: 21.0 | Altura: 182.0 cm
+A. Callens | Liga: Spain Primera Division | Overall: 64.0 | Idade: 22.0 | Altura: 183.0 cm
+A. Robles | Liga: Spain Primera Division | Overall: 64.0 | Idade: 20.0 | Altura: 182.0 cm
+Akapo | Liga: Spain Primera Division | Overall: 64.0 | Idade: 21.0 | Altura: 178.0 cm
+H. Khaloua | Liga: Spain Primera Division | Overall: 64.0 | Idade: 19.0 | Altura: 172.0 cm
+Cotán | Liga: Spain Primera Division | Overall: 64.0 | Idade: 18.0 | Altura: 172.0 cm
+A. Yoda | Liga: Spain Primera Division | Overall: 63.0 | Idade: 25.0 | Altura: 182.0 cm
+Quique | Liga: Spain Primera Division | Overall: 63.0 | Idade: 24.0 | Altura: 175.0 cm
+Aitor | Liga: Spain Primera Division | Overall: 63.0 | Idade: 23.0 | Altura: 182.0 cm
+Campabadal | Liga: Spain Primera Division | Overall: 63.0 | Idade: 21.0 | Altura: 178.0 cm
+Cristobal | Liga: Spain Primera Division | Overall: 63.0 | Idade: 22.0 | Altura: 171.0 cm
+Jozabed | Liga: Spain Primera Division | Overall: 63.0 | Idade: 23.0 | Altura: 180.0 cm
+Samu Castillejo | Liga: Spain Primera Division | Overall: 63.0 | Idade: 19.0 | Altura: 179.0 cm
+Etxeberría | Liga: Spain Primera Division | Overall: 63.0 | Idade: 19.0 | Altura: 180.0 cm
+Medrán | Liga: Spain Primera Division | Overall: 63.0 | Idade: 20.0 | Altura: 176.0 cm
+Aketxe | Liga: Spain Primera Division | Overall: 63.0 | Idade: 20.0 | Altura: 172.0 cm
+E. Puchetta | Liga: Spain Primera Division | Overall: 63.0 | Idade: 22.0 | Altura: 170.0 cm
+Álex Moreno | Liga: Spain Primera Division | Overall: 63.0 | Idade: 21.0 | Altura: 179.0 cm
+Rubén Yáñez | Liga: Spain Primera Division | Overall: 63.0 | Idade: 20.0 | Altura: 190.0 cm
+Aguza | Liga: Spain Primera Division | Overall: 63.0 | Idade: 21.0 | Altura: 179.0 cm
+E. Alic | Liga: Spain Primera Division | Overall: 63.0 | Idade: 22.0 | Altura: 189.0 cm
+L. Hernández | Liga: Spain Primera Division | Overall: 63.0 | Idade: 18.0 | Altura: 180.0 cm
+Hervías | Liga: Spain Primera Division | Overall: 62.0 | Idade: 21.0 | Altura: 174.0 cm
+Pacheco | Liga: Spain Primera Division | Overall: 62.0 | Idade: 22.0 | Altura: 187.0 cm
+S. Dimitrievski | Liga: Spain Primera Division | Overall: 62.0 | Idade: 20.0 | Altura: 185.0 cm
+A. Cousillas | Liga: Spain Primera Division | Overall: 62.0 | Idade: 24.0 | Altura: 182.0 cm
+Irazusta | Liga: Spain Primera Division | Overall: 62.0 | Idade: 28.0 | Altura: 183.0 cm
+Óscar Gil | Liga: Spain Primera Division | Overall: 62.0 | Idade: 19.0 | Altura: 182.0 cm
+Mario Barco | Liga: Spain Primera Division | Overall: 62.0 | Idade: 21.0 | Altura: 185.0 cm
+Luismi | Liga: Spain Primera Division | Overall: 62.0 | Idade: 22.0 | Altura: 180.0 cm
+Dani Romera | Liga: Spain Primera Division | Overall: 62.0 | Idade: 18.0 | Altura: 171.0 cm
+Sivera | Liga: Spain Primera Division | Overall: 62.0 | Idade: 18.0 | Altura: 184.0 cm
+Remeseiro | Liga: Spain Primera Division | Overall: 62.0 | Idade: 21.0 | Altura: 180.0 cm
+Samuel Saiz | Liga: Spain Primera Division | Overall: 61.0 | Idade: 23.0 | Altura: 173.0 cm
+Álex Pérez | Liga: Spain Primera Division | Overall: 61.0 | Idade: 22.0 | Altura: 189.0 cm
+D. Petcoff | Liga: Spain Primera Division | Overall: 61.0 | Idade: 24.0 | Altura: 175.0 cm
+José Ángel | Liga: Spain Primera Division | Overall: 61.0 | Idade: 22.0 | Altura: 182.0 cm
+Gálvez | Liga: Spain Primera Division | Overall: 61.0 | Idade: 21.0 | Altura: 190.0 cm
+Miguel Bañuz | Liga: Spain Primera Division | Overall: 61.0 | Idade: 21.0 | Altura: 185.0 cm
+Sergi Guilló | Liga: Spain Primera Division | Overall: 61.0 | Idade: 23.0 | Altura: 180.0 cm
+Ayala | Liga: Spain Primera Division | Overall: 61.0 | Idade: 21.0 | Altura: 179.0 cm
+Uxío | Liga: Spain Primera Division | Overall: 61.0 | Idade: 21.0 | Altura: 180.0 cm
+Germán Parreño | Liga: Spain Primera Division | Overall: 61.0 | Idade: 21.0 | Altura: 189.0 cm
+Héctor | Liga: Spain Primera Division | Overall: 61.0 | Idade: 18.0 | Altura: 173.0 cm
+Williams | Liga: Spain Primera Division | Overall: 61.0 | Idade: 20.0 | Altura: 186.0 cm
+Carlos Fernández | Liga: Spain Primera Division | Overall: 61.0 | Idade: 18.0 | Altura: 186.0 cm
+David Goldar | Liga: Spain Primera Division | Overall: 61.0 | Idade: 19.0 | Altura: 180.0 cm
+Tendillo | Liga: Spain Primera Division | Overall: 61.0 | Idade: 19.0 | Altura: 176.0 cm
+S. Leuko | Liga: Spain Primera Division | Overall: 61.0 | Idade: 20.0 | Altura: 174.0 cm
+
+=== CONCLUSÃO ===
+1. Jogadores jovens com alto overall são raros.
+2. A altura pode influenciar nas características dos jogadores.
+3. Algumas ligas concentram mais jogadores de alto nível.
